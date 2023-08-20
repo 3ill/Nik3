@@ -1,8 +1,34 @@
-# React + Vite
+<p align="center"><a href="/" target="_blank"><img src="https://github.com/3ill/Nik3/blob/main/src/assets/images/header-logo.svg" width="500"></a></p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">Welcome to Nik3 👋</h1>
 
-Currently, two official plugins are available:
+<p align="center">This is a simple landing page for Nike</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Dependencies 🛠
+
+- `Framer-motion`
+- `node`
+
+## Tech Stack 🛠
+
+- `ReactJS`
+- `Tailwind`
+- `javascript`
+
+### Clone this repo ⤵
+
+```cli
+git clone https://github.com/3ill/Nik3.git
+```
+
+### Install dependencies ⤵
+
+```cli
+npm install
+```
+
+### Run ⤵
+
+```cli
+npm run dev
+```
